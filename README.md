@@ -1,3 +1,3 @@
 # introduction
-<b> my name is Alen </b>
+** my name is Alen **
 hi
